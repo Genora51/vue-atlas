@@ -16,7 +16,7 @@ $font_mono: SFMono-Medium,
 Menlo,
 Courier,
 monospace;
-* {
+:root {
   font-family: $font_0, $font_1, $font_2, $font_3, $font_4, $font_5, $font_6, $font_7, $font_8, $font_9;
 }
 
